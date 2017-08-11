@@ -1,4 +1,4 @@
-# Arranging Images In Your Sequence
+# Arranging Images in Your Sequence
 
 1. Click within the Timeline panel to select it.
 2. In the Tool panel, click the **Selection** tool \(black arrow\).
