@@ -22,3 +22,7 @@
 * [Scaling Media Files to Fit Frame Size](importing-and-working-with-media-files/scaling-media-files-to-frame-size.md)
 * [Previewing Media Files in the Source Monitor](importing-and-working-with-media-files/previewing-media-files-in-the-source-monitor.md)
 
+## Editing in the Timeline Panel
+
+* [Adding an Image to Your Sequence](importing-and-working-with-media-files/adding-an-image-to-your-sequence.md)
+
