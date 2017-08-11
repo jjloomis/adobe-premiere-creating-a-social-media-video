@@ -13,3 +13,8 @@
 * [Creating a Premiere Project](setting-up-your-project/creating-a-premiere-project.md)
 * [Opening an Existing Premiere Project](setting-up-your-project/opening-an-existing-premiere-project.md)
 
+## Importing and Working with Media Files
+
+* [Importing Media Files](importing-and-working-with-media-files/importing-media-files.md)
+* [Creating a Sequence](importing-and-working-with-media-files/creating-a-sequence.md)
+
