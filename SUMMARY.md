@@ -32,3 +32,7 @@
 * [Changing Image Duration](importing-and-working-with-media-files/changing-image-duration.md)
 * [Muting Timeline Audio Scrubbing](importing-and-working-with-media-files/muting-timeline-audio-scrubbing.md)
 
+## Adding Transitions and Text
+
+* [Adding a Cross Dissolve](adding-transitions-and-text/adding-a-cross-dissolve.md)
+
