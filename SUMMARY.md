@@ -15,6 +15,7 @@
 
 ## Importing and Working with Media Files
 
-* [Importing Media Files](importing-and-working-with-media-files/importing-media-files.md)
 * [Creating a Sequence](importing-and-working-with-media-files/creating-a-sequence.md)
+* [Importing Media Files](importing-and-working-with-media-files/importing-media-files.md)
+* [Scaling Media Files to Frame Size](importing-and-working-with-media-files/scaling-media-files-to-frame-size.md)
 
