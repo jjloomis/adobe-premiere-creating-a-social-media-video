@@ -28,4 +28,5 @@
 * [Arranging Images in Your Sequence](importing-and-working-with-media-files/arranging-images-in-your-sequence.md)
 * [Adding an Audio File to Your Sequence](importing-and-working-with-media-files/adding-an-audio-clip-to-your-sequence.md)
 * [Deleting a Media File in Your Sequence](importing-and-working-with-media-files/deleting-a-media-file-in-your-sequence.md)
+* [Zooming in and Out](importing-and-working-with-media-files/zooming-in-and-out.md)
 
