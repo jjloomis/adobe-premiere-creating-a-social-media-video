@@ -25,6 +25,6 @@
 ## Editing in the Timeline Panel
 
 * [Adding an Image to Your Sequence](importing-and-working-with-media-files/adding-an-image-to-your-sequence.md)
-* [Adding an Audio Clip to Your Sequence](importing-and-working-with-media-files/adding-an-audio-clip-to-your-sequence.md)
 * [Arranging Images in Your Sequence](importing-and-working-with-media-files/arranging-images-in-your-sequence.md)
+* [Adding an Audio File to Your Sequence](importing-and-working-with-media-files/adding-an-audio-clip-to-your-sequence.md)
 
