@@ -38,5 +38,5 @@
 
 ## Exporting
 
-* Exporting an MP4
+* [Exporting an MP4](exporting/exporting-an-mp4.md)
 
