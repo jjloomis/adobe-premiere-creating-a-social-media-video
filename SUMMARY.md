@@ -36,3 +36,7 @@
 
 * [Adding a Cross Dissolve](adding-transitions-and-text/adding-a-cross-dissolve.md)
 
+## Exporting
+
+* Exporting an MP4
+
