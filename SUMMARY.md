@@ -30,4 +30,5 @@
 * [Deleting a Media File in Your Sequence](importing-and-working-with-media-files/deleting-a-media-file-in-your-sequence.md)
 * [Zooming in and Out](importing-and-working-with-media-files/zooming-in-and-out.md)
 * [Changing Image Duration](importing-and-working-with-media-files/changing-image-duration.md)
+* [Muting Timeline Audio Scrubbing](importing-and-working-with-media-files/muting-timeline-audio-scrubbing.md)
 
