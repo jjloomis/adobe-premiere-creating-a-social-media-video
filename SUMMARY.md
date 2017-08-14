@@ -38,6 +38,7 @@
 * [Adding a Cross Dissolve](adding-transitions-and-text/adding-a-cross-dissolve.md)
 * [Opening the JAMS Social Media Video Text Template](adding-transitions-and-text/opening-the-jams-social-media-video-text-template.md)
 * [Adding the JAMS Social Media Video Text Template to Your Sequence](adding-transitions-and-text/adding-the-jams-social-media-video-text-template-to-your-sequence.md)
+* [Duplicating the JAMS Social Media Video Text Template in Your Sequence](adding-transitions-and-text/duplicating-the-jams-social-media-video-text-template-in-your-sequence.md)
 
 ## Exporting
 
