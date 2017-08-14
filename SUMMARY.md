@@ -36,6 +36,7 @@
 ## Adding Transitions and Text
 
 * [Adding a Cross Dissolve](adding-transitions-and-text/adding-a-cross-dissolve.md)
+* [Opening the JAMS Social Media Video Text Template](adding-transitions-and-text/opening-the-jams-social-media-video-text-template.md)
 
 ## Exporting
 
