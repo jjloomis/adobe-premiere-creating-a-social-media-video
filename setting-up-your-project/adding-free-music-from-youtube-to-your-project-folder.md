@@ -6,8 +6,7 @@ An MP3 downloaded from YouTube must live in your project folder. If the MP3 does
 2. Browse the music library and find a track that fits your project.
 3. Control-click the **download icon** for the track. In the fly-out menu, select **Save Link As**.
 4. In the Save box, [navigate to and select](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html) your project folder.  
-
-
+5. Click **Save**. The MP3 will download to your project folder. 
 
 
 
