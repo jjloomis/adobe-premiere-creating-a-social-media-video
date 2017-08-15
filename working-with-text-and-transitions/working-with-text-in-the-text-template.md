@@ -16,7 +16,7 @@ Note: Do not change the formatting of the text in the text template. Only use th
 2. In your sequence, position the playhead over the text template you'd like to edit. 
 3. Click the text template to select it.
 4. In the Essential Graphics panel, click the Edit tab.
-5. To make changes to the text, select the Type layer \(top.\) To make changes to the gray box, select the Shape 01 layer \(top.\)
+5. To make changes to the text, select the Type layer \(top.\) To make changes to the gray box, select the Gray Box layer \(top.\)
 
 
 
