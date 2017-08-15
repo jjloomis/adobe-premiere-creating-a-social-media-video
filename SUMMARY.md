@@ -26,6 +26,7 @@
 
 ## Editing in the Timeline Panel
 
+* [Viewing Your Project in the Program Monitor](importing-and-working-with-media-files/viewing-your-project-in-the-program-monitor.md)
 * [Adding an Image to Your Sequence](importing-and-working-with-media-files/adding-an-image-to-your-sequence.md)
 * [Adding an Audio File to Your Sequence](importing-and-working-with-media-files/adding-an-audio-clip-to-your-sequence.md)
 * [Arranging Images in Your Sequence](importing-and-working-with-media-files/arranging-images-in-your-sequence.md)
@@ -33,7 +34,6 @@
 * [Zooming in and Out](importing-and-working-with-media-files/zooming-in-and-out.md)
 * [Changing Image Duration](importing-and-working-with-media-files/changing-image-duration.md)
 * [Muting Timeline Audio Scrubbing](importing-and-working-with-media-files/muting-timeline-audio-scrubbing.md)
-* [Viewing Your Project in the Program Monitor](importing-and-working-with-media-files/viewing-your-project-in-the-program-monitor.md)
 
 ## Working with Text and Transitions
 
