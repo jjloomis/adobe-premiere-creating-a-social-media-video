@@ -15,6 +15,7 @@
 * [Opening Premiere](setting-up-your-project/opening-premiere.md)
 * [Creating a Premiere Project](setting-up-your-project/creating-a-premiere-project.md)
 * [Opening an Existing Premiere Project](setting-up-your-project/opening-an-existing-premiere-project.md)
+* [Saving Your Project](setting-up-your-project/saving-your-project.md)
 
 ## Importing and Working with Media Files
 
