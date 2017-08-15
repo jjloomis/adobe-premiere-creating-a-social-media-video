@@ -9,5 +9,7 @@
 
 ## Formatting text
 
+You should not change the formatting of the text in the template. This section is included in case something goes wrong with the formatting of the text as you work on your project.
+
 
 
