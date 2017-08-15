@@ -9,7 +9,9 @@
 
 ## Formatting text
 
-You should not change the formatting of the text in the template. This section is included in case something goes wrong with the formatting of the text as you work on your project.
+You should not change the formatting of the text in the text template. This section is only included in case you run into formatting problems while editing the text. 
 
+1. In the Essential Graphics panel, click the Edit tab.
+2. 
 
 
