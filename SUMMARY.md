@@ -33,7 +33,7 @@
 * [Changing Image Duration](importing-and-working-with-media-files/changing-image-duration.md)
 * [Muting Timeline Audio Scrubbing](importing-and-working-with-media-files/muting-timeline-audio-scrubbing.md)
 
-## Adding Transitions and Text
+## Working with Text and Transitions
 
 * [Opening the JAMS Social Media Video Text Template](adding-transitions-and-text/opening-the-jams-social-media-video-text-template.md)
 * [Adding the JAMS Social Media Video Text Template to Your Sequence](adding-transitions-and-text/adding-the-jams-social-media-video-text-template-to-your-sequence.md)
