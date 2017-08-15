@@ -1,6 +1,6 @@
 # Exporting an MP4
 
-You’ll export an MP4 file as your finished product. You can upload this MP4 file to YouTube or Vimeo.
+You’ll export an MP4 file as your finished product. You can upload this MP4 file to Facebook or YouTube.
 
 1. Important: Make sure the Timeline panel selected before exporting your video. To select the Timeline panel, click within Timeline panel. When selected, the Timeline panel will have a blue border around it. 
 2. Go to `File` on the menu bar. Select `Export`. From the fly-out menu, select `Media`. The Export dialog box will appear.
