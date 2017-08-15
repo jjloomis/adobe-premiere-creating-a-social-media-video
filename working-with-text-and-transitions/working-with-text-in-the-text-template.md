@@ -10,13 +10,12 @@
 
 ## Formatting text
 
-You should not change the formatting of the text in the text template. This section is only included in case you run into formatting problems while editing the text.
+Do not change the formatting of the text in the text template. This section is only included in case you accidentally run into formatting problems while editing the text.
 
 1. In the Workspaces bar, click Graphics. The Essential Graphics panel will open on the right.
 2. In your sequence, position the playhead over the text template you'd like to edit. 
 3. Click the text template to select it.
-4. 
-
+4. In the Essential Graphics panel, click the Edit tab.
 
 
 
