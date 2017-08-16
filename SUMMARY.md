@@ -38,9 +38,9 @@
 
 ## Working with Text and Transitions
 
-* [Opening the JAMS Social Media Video Text Template](working-with-text-and-transitions/opening-the-jams-social-media-video-text-template.md)
-* [Adding the JAMS Social Media Video Text Template to Your Sequence](working-with-text-and-transitions/adding-the-jams-social-media-video-text-template-to-your-sequence.md)
-* [Working with Text in the Text Template](working-with-text-and-transitions/working-with-text-in-the-text-template.md)
+* [Opening the JAMS Text Template](working-with-text-and-transitions/opening-the-jams-social-media-video-text-template.md)
+* [Adding the JAMS Text Template to Your Sequence](working-with-text-and-transitions/adding-the-jams-social-media-video-text-template-to-your-sequence.md)
+* [Working with Text in the JAMS Text Template](working-with-text-and-transitions/working-with-text-in-the-text-template.md)
 * [Adding a Cross Dissolve](working-with-text-and-transitions/adding-a-cross-dissolve.md)
 * [Adding an Audio Fade Out](working-with-text-and-transitions/adding-an-audio-fade-out.md)
 

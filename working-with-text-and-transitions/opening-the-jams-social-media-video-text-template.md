@@ -1,4 +1,4 @@
-# Opening the JAMS Social Media Video Text Template
+# Opening the JAMS Text Template
 
 The JAMS Text Template lives in the root of your class folder. You'll bring it into your Premiere project before adding it to your sequence.
 
