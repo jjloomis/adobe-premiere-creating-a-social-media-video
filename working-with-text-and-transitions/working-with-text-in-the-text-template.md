@@ -1,4 +1,4 @@
-# Working with Text in the Text Template
+# Working with Text in the JAMS Text Template
 
 ## Editing text
 
@@ -10,7 +10,7 @@
 
 ## Formatting text
 
-Note: Do not change the formatting of the text in the text template. Only use this section if you run into formatting problems while editing the text.
+**Note**: Do not change the formatting of the text in the text template. Only use this section if you run into formatting problems while editing the text.
 
 1. In the Workspaces bar, click Graphics. The Essential Graphics panel will open on the right.
 2. In your sequence, position the playhead over the text template you'd like to edit. 
