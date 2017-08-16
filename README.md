@@ -14,7 +14,7 @@ PDF, MOBI, and EPUB versions of this GitBook are availble for download [here](ht
 
 ## GitHub
 
-To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-premiere-basic-video-editing).
+To fork this GitBook, make suggestions, or contribute content, visit the [GitHub repository](https://github.com/jjloomis/adobe-premiere-creating-a-social-media-video).
 
 ## License
 
