@@ -21,7 +21,7 @@
 
 * [Creating a Sequence](importing-and-working-with-media-files/creating-a-sequence.md)
 * [Importing Media Files](importing-and-working-with-media-files/importing-media-files.md)
-* [Scaling Media Files to Fit Frame Size](importing-and-working-with-media-files/scaling-media-files-to-frame-size.md)
+* [Scaling Images to Fit Frame Size](importing-and-working-with-media-files/scaling-media-files-to-frame-size.md)
 * [Previewing Media Files in the Source Monitor](importing-and-working-with-media-files/previewing-media-files-in-the-source-monitor.md)
 
 ## Editing in the Timeline Panel
@@ -32,8 +32,8 @@
 * [Arranging Images in Your Sequence](importing-and-working-with-media-files/arranging-images-in-your-sequence.md)
 * [Zooming in and Out](importing-and-working-with-media-files/zooming-in-and-out.md)
 * [Changing Image Duration](importing-and-working-with-media-files/changing-image-duration.md)
-* [Changing Audio File Duration](importing-and-working-with-media-files/changing-audio-file-duration.md)
-* [Deleting a Media File in Your Sequence](importing-and-working-with-media-files/deleting-a-media-file-in-your-sequence.md)
+* [Changing Audio Duration](importing-and-working-with-media-files/changing-audio-file-duration.md)
+* [Deleting an Item in Your Sequence](importing-and-working-with-media-files/deleting-a-media-file-in-your-sequence.md)
 * [Muting Timeline Audio Scrubbing](importing-and-working-with-media-files/muting-timeline-audio-scrubbing.md)
 
 ## Working with Text and Transitions
@@ -47,4 +47,8 @@
 ## Exporting
 
 * [Exporting an MP4](exporting/exporting-an-mp4.md)
+
+## Glossary
+
+* [Glossary](glossary/glossary.md)
 
