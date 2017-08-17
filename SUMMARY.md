@@ -44,18 +44,14 @@
 * [Adding a Cross Dissolve](working-with-text-and-transitions/adding-a-cross-dissolve.md)
 * [Adding an Audio Fade Out](working-with-text-and-transitions/adding-an-audio-fade-out.md)
 
-## Advanced Effects
-
-* [Adding a Ken Burns Effect](advanced-effects/adding-a-ken-burns-effect.md)
-
 ## Exporting
 
 * [Exporting an MP4](exporting/exporting-an-mp4.md)
 
 ## Troubleshooting
 
+* [Panels are in Weird Places](troubleshooting/all-of-the-panels-are-in-different-places.md)
 * [Panels Have Disappeared](troubleshooting/panels-have-disappeared.md)
-* All of the Panels are in Different Places
 
 ## Glossary
 
