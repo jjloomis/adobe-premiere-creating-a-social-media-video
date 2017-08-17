@@ -1,4 +1,4 @@
-# Copying media files from a still camera SD card into your project folder
+# Copying Media Files From a Still Camera SD Card Into Your Project Folder
 
 1. Connect to your class folder using a [JAMS Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-jams-lab.html) or [CCL](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-campus-computer-lab.html) Mac.
 2. Eject the SD card from your camera. \(Consult your owner's manual or Google if you're unfamilar with this process.\)
