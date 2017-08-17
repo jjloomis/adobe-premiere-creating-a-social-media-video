@@ -30,7 +30,7 @@
 * [Adding an Image to Your Sequence](importing-and-working-with-media-files/adding-an-image-to-your-sequence.md)
 * [Adding an Audio File to Your Sequence](importing-and-working-with-media-files/adding-an-audio-clip-to-your-sequence.md)
 * [Arranging Images in Your Sequence](importing-and-working-with-media-files/arranging-images-in-your-sequence.md)
-* [Zooming in and Out](importing-and-working-with-media-files/zooming-in-and-out.md)
+* [Zooming In and Out](importing-and-working-with-media-files/zooming-in-and-out.md)
 * [Changing Image Duration](importing-and-working-with-media-files/changing-image-duration.md)
 * [Changing Audio Duration](importing-and-working-with-media-files/changing-audio-file-duration.md)
 * [Deleting an Item in Your Sequence](importing-and-working-with-media-files/deleting-a-media-file-in-your-sequence.md)
