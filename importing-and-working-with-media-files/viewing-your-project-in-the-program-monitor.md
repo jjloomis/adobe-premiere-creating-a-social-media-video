@@ -1,4 +1,4 @@
-# Viewing your project in the Program monitor
+# Viewing Your Project in the Program monitor
 
 The Program monitor displays the contents of your sequence as you assemble your project.
 
