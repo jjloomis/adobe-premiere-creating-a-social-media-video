@@ -51,7 +51,8 @@
 ## Troubleshooting
 
 * [Panels are in Weird Places](troubleshooting/all-of-the-panels-are-in-different-places.md)
-* [Panels Have Disappeared](troubleshooting/panels-have-disappeared.md)
+* [Panels are Missing](troubleshooting/panels-have-disappeared.md)
+* [One Panel is Super Large and it's the Only Thing You See in Premiere](troubleshooting/one-panel-has-become-super-large-and-its-the-only-thing-you-see-in-premiere.md)
 
 ## Glossary
 
