@@ -46,7 +46,7 @@
 
 ## Advanced Effects
 
-* Adding a Ken Burns Effect
+* [Adding a Ken Burns Effect](advanced-effects/adding-a-ken-burns-effect.md)
 
 ## Exporting
 
@@ -55,6 +55,7 @@
 ## Troubleshooting
 
 * [Panels Have Disappeared](troubleshooting/panels-have-disappeared.md)
+* All of the Panels are in Different Places
 
 ## Glossary
 
