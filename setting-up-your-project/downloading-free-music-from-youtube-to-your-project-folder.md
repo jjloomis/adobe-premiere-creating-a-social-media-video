@@ -4,7 +4,7 @@ YouTube offers free music MP3 files for download. If you download an MP3 from Yo
 
 1. Open Chrome and go to following URL: [https://www.youtube.com/audiolibrary/music](https://www.youtube.com/audiolibrary/music)
 2. Browse the music library and select a track that fits your project.
-3. Control-click the **download icon** for the track. In the fly-out menu, select **Save Link As**.
+3. Control-click the **download **icon \(arrow\) for the track. In the fly-out menu, select **Save Link As**.
 4. In the Save As box, [navigate to and select](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html) your project folder.  
 5. Click **Save**. The MP3 will download to your project folder. 
 
