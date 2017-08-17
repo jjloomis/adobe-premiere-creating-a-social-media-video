@@ -1,4 +1,4 @@
-# Importing media files
+# Importing Media Files
 
 Before you can edit your media files, you’ll need to import them into your Premire project. Once imported, your media files will appear in the Project panel.
 
