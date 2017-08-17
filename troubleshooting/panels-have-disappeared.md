@@ -2,6 +2,8 @@
 
 If a panel is missing or looks different, a tab within the panel may have been clicked by accident.
 
+1. Make sure you have the right Workspace selected.
+2. Go to Window on the menu bar. Select Workspaces. Choose Reset to Saved Layout. 
 
 
 
