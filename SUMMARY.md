@@ -56,5 +56,5 @@
 
 ## Glossary
 
-* [Glossary](glossary.md)
+* [Glossary](GLOSSARY.md)
 
