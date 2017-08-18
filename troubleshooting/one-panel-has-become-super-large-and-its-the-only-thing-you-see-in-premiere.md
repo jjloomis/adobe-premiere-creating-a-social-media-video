@@ -1,4 +1,4 @@
-# One Panel is Super Large and it's the Only Thing You See in Premiere
+# One Panel is Super Large and It's the Only Thing You See in Premiere
 
 This is actually a feature \(not a bug\) that lets you focus on a particular panel. There are two ways to toggle this feature on or off.
 
