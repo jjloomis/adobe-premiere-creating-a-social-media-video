@@ -1,14 +1,14 @@
 # Glossary
 
-## Class folder {#class-folder}
+## Class folder
 
 Network storage area for multimedia projects.
 
-## MP3 {#mp3}
+## MP3
 
 Compressed audio file format. Often used for online delivery of audio.
 
-## MP4 {#mp3}
+## MP4
 
 Compressed video file format. Often used for online delivery of videos.
 
@@ -16,7 +16,7 @@ Compressed video file format. Often used for online delivery of videos.
 
 All-encompassing term for image, audio, and video files.
 
-## Project folder {#project-folder}
+## Project folder
 
 Folder that contains PRPROJ file and all media files associated with your project.
 
@@ -26,7 +26,7 @@ Adobe Premiere project file.
 
 ## Sequence
 
- Area within Timeline panel where your project is assembled.
+Area within Timeline panel where you assemble your project.
 
 
 
