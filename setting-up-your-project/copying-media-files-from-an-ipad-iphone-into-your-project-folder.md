@@ -1,4 +1,4 @@
-# Copying Media Files From an iPad&\#47; iPhone Into Your Project Folder
+# Copying Media Files From an iPad&#47; iPhone Into Your Project Folder
 
 1. Connect to your class folder using [JAMS Lab](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-jams-lab.html) or [CCL](https://jjloomis.gitbooks.io/file-and-folder-management/content/connecting-in-campus-computer-lab.html) Mac.
 2. Using the iPad/ iPhone USB cable, connect your iPad/ iPhone to the back of the Mac.
