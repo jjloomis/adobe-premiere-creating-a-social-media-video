@@ -1,6 +1,6 @@
 # Downloading Free Music Into Your Project Folder
 
-Some websites offer free MP3 music files for download. If you download an MP3, it needs to live in your project folder \(not the Downloads folder of a lab computer.\) If the MP3 does not live in your project folder, that portion portion of your project will not work.
+Some websites offer free MP3 music file downloads. If you download an MP3, it needs to live in your project folder \(not the Downloads folder of a lab computer.\) If the MP3 does not live in your project folder, that portion portion of your project will not work.
 
 ## YouTube
 
