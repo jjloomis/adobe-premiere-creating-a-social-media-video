@@ -1,4 +1,8 @@
-# Downloading Free Music from YouTube to Your Project Folder
+# Downloading Free Music Into Your Project Folder
+
+Some online outlets offer free music MP3 files for download. If you download an MP3, it must live in your project folder \(not the Downloads folder of a lab computer.\) If the MP3 does not live in your project folder, that portion portion of your project will not work.
+
+## YouTube
 
 YouTube offers free music MP3 files for download. If you download an MP3 from YouTube, it must live in your project folder \(not the Downloads folder of a lab computer.\) If the MP3 does not live in your project folder, the audio portion of your project will not work.
 
