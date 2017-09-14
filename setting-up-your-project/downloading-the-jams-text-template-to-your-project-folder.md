@@ -1,4 +1,4 @@
-# Downloading the JAMS Text Template to Your Project Folder
+# Downloading the JAMS-Social-Media-Video Template to Your Project Folder
 
 1. **Control-click** this link: [JAMS-Text-Template.mogrt](https://s3-us-west-2.amazonaws.com/jams-downloadable-files/templates/JAMS-Text-Template.mogrt). In the fly-out menu, select **Save Link As**.
 2. In the Save As box, navigate to and select your project folder.

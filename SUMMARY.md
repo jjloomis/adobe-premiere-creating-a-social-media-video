@@ -11,7 +11,6 @@
 * [Copying Media Files From an iPad&\#47; iPhone Into Your Project Folder](setting-up-your-project/copying-media-files-from-an-ipad-iphone-into-your-project-folder.md)
 * [Copying Media Files From a Still Camera SD Card Into Your Project Folder](setting-up-your-project/copying-media-files-from-a-still-camera-sd-card-into-your-project-folder.md)
 * [Downloading Free Music to Your Project Folder](setting-up-your-project/downloading-free-music-from-youtube-to-your-project-folder.md)
-* [Downloading the JAMS Text Template to Your Project Folder](setting-up-your-project/downloading-the-jams-text-template-to-your-project-folder.md)
 * [Opening Premiere](setting-up-your-project/opening-premiere.md)
 * [Creating a Premiere Project](setting-up-your-project/creating-a-premiere-project.md)
 * [Opening an Existing Premiere Project](setting-up-your-project/opening-an-existing-premiere-project.md)
@@ -38,6 +37,7 @@
 
 ## Working with Text and Transitions
 
+* [Downloading the JAMS-Social-Media-Video Template to Your Project Folder](setting-up-your-project/downloading-the-jams-text-template-to-your-project-folder.md)
 * [Opening the JAMS Text Template](working-with-text-and-transitions/opening-the-jams-social-media-video-text-template.md)
 * [Adding the JAMS Text Template to Your Sequence](working-with-text-and-transitions/adding-the-jams-social-media-video-text-template-to-your-sequence.md)
 * [Working with Text in the JAMS Text Template](working-with-text-and-transitions/working-with-text-in-the-text-template.md)
