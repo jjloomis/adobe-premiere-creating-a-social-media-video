@@ -46,7 +46,7 @@
 
 ## Exporting
 
-* [Exporting an MP4 for YouTube](exporting/exporting-an-mp4.md)
+* [Exporting an MP4](exporting/exporting-an-mp4.md)
 
 ## Troubleshooting
 
