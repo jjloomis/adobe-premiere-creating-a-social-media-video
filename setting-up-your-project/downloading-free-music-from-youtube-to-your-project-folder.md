@@ -4,6 +4,8 @@ Some websites offer free MP3 music file downloads. If you download an MP3, it ne
 
 ## YouTube
 
+Note: In order to download free music from YouTube, you will need a YouTube/ Google account. See YouTube Basics: Creating a Google account for more information.
+
 1. Click this link: [youtube.com/audiolibrary/music](https://www.youtube.com/audiolibrary/music) to go to the YouTube free music library. 
 2. Browse the music library and select a track that fits your project.
 3. Control-click the **download **icon \(arrow\) for the track. In the fly-out menu, select **Save Link As** (or **Download Linked File As** or **Save Target As**, depending on your browser)
