@@ -37,10 +37,10 @@
 
 ## Working with Text and Transitions
 
-* [Downloading the JAMS-Social-Media-Video Template to Your Project Folder](setting-up-your-project/downloading-the-jams-text-template-to-your-project-folder.md)
-* [Opening the JAMS-Social-Media-Video Template](working-with-text-and-transitions/opening-the-jams-social-media-video-text-template.md)
-* [Adding the JAMS Text Template to Your Sequence](working-with-text-and-transitions/adding-the-jams-social-media-video-text-template-to-your-sequence.md)
-* [Working with Text in the JAMS-Social-Media-Video Template](working-with-text-and-transitions/working-with-text-in-the-text-template.md)
+* [Downloading a JAMS Text Template to Your Project Folder](setting-up-your-project/downloading-the-jams-text-template-to-your-project-folder.md)
+* [Opening a JAMS Text Template](working-with-text-and-transitions/opening-the-jams-social-media-video-text-template.md)
+* [Adding a JAMS Text Template to Your Sequence](working-with-text-and-transitions/adding-the-jams-social-media-video-text-template-to-your-sequence.md)
+* [Working with Text in a JAMS Text Template](working-with-text-and-transitions/working-with-text-in-the-text-template.md)
 * [Adding a Cross Dissolve](working-with-text-and-transitions/adding-a-cross-dissolve.md)
 * [Adding an Audio Fade Out](working-with-text-and-transitions/adding-an-audio-fade-out.md)
 
