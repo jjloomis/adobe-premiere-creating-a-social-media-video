@@ -5,7 +5,7 @@
 3. In the Essential Graphics panel, make sure the **Browse** tab is selected. Click the **Install Motion Graphics Template** icon \(folder with arrow\) next to the Essential Graphics drop-down menu.
 4. In the Open box, navigate to and select a JAMS Text Template MOGRT file. Click **Open**. The JAMS Text Template will appear in the Essential Graphics panel.
 
-## JAMS Text Templates
+## JAMS Text Template files
 
 * JAMS-News-Reporting.mogrt
 * JAMS-White-Text-Black-Background.mogrt
