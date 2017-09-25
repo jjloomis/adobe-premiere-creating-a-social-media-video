@@ -3,16 +3,16 @@
 ## Editing text
 
 1. In the Workspaces bar, click **Graphics**. The Essential Graphics panel will open on the right.
-2. In your sequence, click a JAMS-Social-Media-Video template to select it. Position the playhead over this JAMS-Social-Media-Video template. This instance of the JAMS-Social-Media-Video template will appear in the Program panel.
+2. In your sequence, click a JAMS Text Template to select it. Position the playhead over this JAMS Text Template. This instance of the JAMS Text Template will appear in the Program panel.
 3. In the Program panel toolbar, select the **Type** tool \(T\). 
 4. Click the text. The text box will appear selected. Make changes to the text as you see fit. **Note**: The text box holds comfortably holds 160 characters \(with some wiggle room.\) 
 
 ## Formatting text
 
-**Note**: Do not change the formatting of the text in the JAMS-Social-Media-Video template. Only use this section if you run into formatting problems while editing the text.
+**Note**: Do not change the formatting of the text in a JAMS Text Template. Only use this section if you run into formatting problems while editing the text.
 
 1. In the Workspaces bar, click **Graphics**. The Essential Graphics panel will open on the right.
-2. In your sequence, click a JAMS-Social-Media-Video template to select it. Position the playhead over this JAMS-Social-Media-Video template. This instance of the JAMS-Social-Media-Video template will appear in the Program panel.
+2. In your sequence, click a JAMS Text Template to select it. Position the playhead over this JAMS Text Template. This instance of the JAMS Text Template will appear in the Program panel.
 3. In the Program panel toolbar, select the **Type** tool \(T\). 
 4. Click the text. The text box will appear selected. 
 5. In the Essential Graphics panel, click the **Edit** tab.
