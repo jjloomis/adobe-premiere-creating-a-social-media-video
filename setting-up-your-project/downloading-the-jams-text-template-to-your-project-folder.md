@@ -1,6 +1,6 @@
 # Downloading a JAMS Text Template to Your Project Folder
 
-**Note**: Use the Chrome browser when downloading file. 
+**Note**: Use Chrome as your browser when downloading files. Safari can [cause unexpected behavior](/troubleshooting/computer-is-trying-to-open-jams-text-template-in-photoshop.md) when used to download files.
 
 ## JAMS Social Media Video
 
