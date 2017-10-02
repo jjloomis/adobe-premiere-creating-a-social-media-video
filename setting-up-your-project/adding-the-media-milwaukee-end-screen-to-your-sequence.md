@@ -6,7 +6,7 @@
 
 1. **Control-click** this link: [Media-Milwaukee-End-Screen.png](https://s3-us-west-2.amazonaws.com/jams-downloadable-files/templates/Media-Milwaukee-End-Screen.png). In the fly-out menu, select **Save Link As **\(or **Download Linked File As** or **Save Target As**.\)
 2. In the Save As box, navigate to and select your project folder.
-3. Click **Save**. The JAMS-Text-Template.mogrt file will download to your project folder.
+3. Click **Save**. The Media-Milwaukee-End-Screen.png file will download to your project folder.
 
 
 
