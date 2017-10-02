@@ -10,13 +10,13 @@
 
 ## JAMS Social Media Video (Left Text Panel)
 
-1. **Control-click** this link: [JAMS-Social-Media-Video-Left-Text-Panel.mogrt]. In the fly-out menu, select **Save Link As **\(or **Download Linked File As** or **Save Target As**.\)
+1. **Control-click** this link: JAMS-Social-Media-Video-Left-Text-Panel.mogrt. In the fly-out menu, select **Save Link As **\(or **Download Linked File As** or **Save Target As**.\)
 2. In the Save As box, navigate to and select your project folder.
 3. Click **Save**. The JAMS-Text-Template.mogrt file will download to your project folder.
 
 ## JAMS Social Media Video (Right Text Panel)
 
-1. **Control-click** this link: [JAMS-Social-Media-Video-Right-Text-Panel.mogrt]. In the fly-out menu, select **Save Link As **\(or **Download Linked File As** or **Save Target As**.\)
+1. **Control-click** this link: JAMS-Social-Media-Video-Right-Text-Panel.mogrt. In the fly-out menu, select **Save Link As **\(or **Download Linked File As** or **Save Target As**.\)
 2. In the Save As box, navigate to and select your project folder.
 3. Click **Save**. The JAMS-Text-Template.mogrt file will download to your project folder.
 
