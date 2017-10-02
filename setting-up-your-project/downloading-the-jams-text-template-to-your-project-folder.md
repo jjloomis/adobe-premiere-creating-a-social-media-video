@@ -21,9 +21,6 @@
 3. Click **Save**. The JAMS-Text-Template.mogrt file will download to your project folder.
 
 
-
-
-
 ## JAMS White Text/ Black Background
 
 1. **Control-click** this link: [JAMS-White-Text-Black-Background](https://s3-us-west-2.amazonaws.com/jams-downloadable-files/templates/JAMS-White-Text-Black-Background.mogrt). In the fly-out menu, select **Save Link As **\(or **Download Linked File As** or **Save Target As**.\)
