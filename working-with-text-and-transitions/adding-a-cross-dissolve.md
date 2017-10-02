@@ -1,4 +1,4 @@
-# Adding a Cross Dissolve
+# Adding a Cross Dissolve Between Two Images
 
 1. In the Workspaces bar, click **Effects**. The Effects panel will open on the right.
 2. In the Effects panel, expand **Video Transition**s. Then expand **Dissolve**.
