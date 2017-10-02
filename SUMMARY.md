@@ -47,7 +47,7 @@
 
 ## Working with Audio
 
-* [Adding an Audio File to Your Sequence](working-with-audio/adding-an-audio-file-to-your-sequence.md)
+* [Importing an Audio File](working-with-audio/adding-an-audio-file-to-your-sequence.md)
 
 ## Exporting
 
