@@ -16,6 +16,9 @@
 
 ## Adding the Media Milwaukee End Screen to your sequence 
 
+1. Select Media-Milwaukee-End-Screen in the Project panel.
+2. Click and drag Media-Milwaukee-End-Screen to the end of your sequence.
+
 
 
 
