@@ -43,6 +43,7 @@
 * [Working with Text in a JAMS Text Template](working-with-text-and-transitions/working-with-text-in-the-text-template.md)
 * [Adding a Cross Dissolve](working-with-text-and-transitions/adding-a-cross-dissolve.md)
 * [Adding an Audio Fade Out](working-with-text-and-transitions/adding-an-audio-fade-out.md)
+* [Adding the Media Milwaukee End Screen to Your Sequence](setting-up-your-project/adding-the-media-milwaukee-end-screen-to-your-sequence.md)
 
 ## Exporting
 
