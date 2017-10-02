@@ -1,4 +1,4 @@
-# Adding an Audio File to Your Sequence
+# Importing an Audio File
 
 Before you can edit your audio file, you’ll need to import it into your Premire project. Once imported, your audio file will appear in the Project panel.
 
