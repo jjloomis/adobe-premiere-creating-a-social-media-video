@@ -45,6 +45,10 @@
 * [Adding a Cross Dissolve](working-with-text-and-transitions/adding-a-cross-dissolve.md)
 * [Adding an Audio Fade Out](working-with-text-and-transitions/adding-an-audio-fade-out.md)
 
+## Working with Audio
+
+* [Adding an Audio File to Your Sequence](working-with-audio/adding-an-audio-file-to-your-sequence.md)
+
 ## Exporting
 
 * [Exporting an MP4](exporting/exporting-an-mp4.md)
