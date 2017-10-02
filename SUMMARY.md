@@ -45,6 +45,7 @@
 * [Adding a Cross Dissolve to Between Two Images](working-with-text-and-transitions/adding-a-cross-dissolve.md)
 * [Adding Cross Dissolves to All Images in Your Sequence](setting-up-your-project/adding-cross-dissolves-to-all-images-in-your-sequence.md)
 * [Adding an Audio Fade Out](working-with-text-and-transitions/adding-an-audio-fade-out.md)
+* [Changing the Duration of a Dissolve or Audio Fade](setting-up-your-project/changing-the-duration-of-a-dissolve-or-audio-fade.md)
 
 ## Exporting
 
