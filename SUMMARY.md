@@ -58,6 +58,7 @@
 * [One Panel is Super Large and It's the Only Thing You See in Premiere](troubleshooting/one-panel-has-become-super-large-and-its-the-only-thing-you-see-in-premiere.md)
 * [Media Files Are in Your Project Folder but They Don't Appear in the Import Window](troubleshooting/media-files-are-in-your-project-folder-but-dont-appear-in-the-import-window.md)
 * [Computer is Trying to Open a JAMS Text Template in Photoshop](troubleshooting/computer-is-trying-to-open-jams-text-template-in-photoshop.md)
+* [JAMS Text Templates Are Not in Essential Graphics Panel](troubleshooting/jams-text-templates-are-not-in-essential-graphics-panel.md)
 
 ## Glossary
 
